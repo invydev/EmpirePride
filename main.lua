@@ -2198,7 +2198,7 @@ local function setElementVisible(name, visible)
     end)
 end
 
-local Window = WindUI:CreateWindow({ Title = "EMPIRE", Icon = "chess-king", Author = "Premium Script", Transparent = true })
+local Window = WindUI:CreateWindow({ Title = "EMPIRE X RENZZ", Icon = "chess-king", Author = "Premium Script", Transparent = true })
 Window.Name = GUI_NAMES.Main 
 Window:Tag({ Title = "v.2.2.0", Icon = "github", Color = Color3.fromHex("#2698ad"), Radius = 0 })
 Window:SetToggleKey(Enum.KeyCode.H)
@@ -2232,7 +2232,7 @@ Button.AutoButtonColor = false
 Button.BorderSizePixel = 0
 
 -- TODO: ganti ID ini dengan image kamu
-Button.Image = "https://files.catbox.moe/xx6f4u.jpg"
+Button.Image = "rbxassetid://7229442422"
 Button.ImageTransparency = 0
 Button.ScaleType = Enum.ScaleType.Fit
 
