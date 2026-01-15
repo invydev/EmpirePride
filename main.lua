@@ -1800,7 +1800,7 @@ local function BuildFishPayload(player, fishId, weight, mutation)
 	if mutationText == nil then mutationText = "None" end
 
 	return {
-		username = "UQiLL",
+		username = "Renzz",
         avatar_url = "https://files.catbox.moe/xx6f4u.jpg",
 		embeds = {{
 			title = (RARITY_GRADIENT[tier] or "") .. " 🎣 Fish Obtained",
